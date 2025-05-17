@@ -2,14 +2,14 @@ to do:
     paddles:
     - objects X
     - movements X
-    - collisions
+    - collisions X
 
     ball:
-    - collisions
-    - movement
-    - angle of hit
-    - speed
-    - reflection angle
+    - collisions X
+    - movement X
+    - angle of hit X
+    - speed X
+    - reflection angle X
     
     scoring:
     - player 1 score
