@@ -1,0 +1,26 @@
+to do:
+    paddles:
+    - objects X
+    - movements X
+    - collisions
+
+    ball:
+    - collisions
+    - movement
+    - angle of hit
+    - speed
+    - reflection angle
+    
+    scoring:
+    - player 1 score
+    - player 2 score
+    - winning score
+    - 
+
+    UI:
+    - player control X
+    - begin screen
+    - end screen
+    - pause screen
+    - score display
+    
